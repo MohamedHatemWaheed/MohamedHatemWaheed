@@ -1,5 +1,5 @@
 # 📊 Mohamed Hatem – Data Analyst
-## Hi👋 and Welcome to my GitHub! I’m a passionate Data Analyst specializing in Excel, Power BI, Tableau, SQL and Python,. I love transforming raw data into meaningful insights and building interactive dashboards that drive decision-making.
+## Hi👋 and Welcome to my GitHub!
 
 I'm a Data Analyst with a strong passion for uncovering insights and solving problems through data. I am highly proficient in Excel and Power BI, with excellent skills in Tableau, SQL, and Python. I thrive on working with analytical tools to transform raw data into meaningful stories and actionable insights.
 
