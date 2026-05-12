@@ -36,10 +36,10 @@ I'm Mohamed Hatem, a Data Analyst focused on Business Intelligence, analytics, a
 
 I’ve worked on projects that uncovered multi-million-dollar inefficiencies, optimized marketing performance, analyzed customer behavior, and explored the future of renewable energy in Egypt.
 
-🏆 Top 8 among 320 teams in the MCIT DEPI competition
-📊 Delivered 20+ analytics projects across multiple industries
-⚡ Skilled in Python, SQL, Power BI, Tableau, and Excel
-☁️ Exploring Data Engineering, Azure, Apache Spark, Big Data, and modern data pipelines
+* 🏆 Top 8 among 320 teams in the MCIT DEPI competition
+* 📊 Delivered 20+ analytics projects across multiple industries
+* ⚡ Skilled in Python, SQL, Power BI, Tableau, and Excel
+* ☁️ Exploring Data Engineering, Azure, Apache Spark, Big Data, and modern data pipelines
 
 Beyond technical work, I founded and led the first-ever Data Analysis & AI Council at LinkCU, a non-profit student organization. Despite the uncertainty around launching a completely new department, I built the council from the ground up and led a team of 6 members, including 3 instructors and 3 HR members.
 
