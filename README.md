@@ -1,65 +1,189 @@
-# 📊 Mohamed Hatem – Data Analyst
-## Hi👋 and Welcome to my GitHub!
+<h1 align="center">Hi there, I'm Mohamed Hatem 👋</h1>
 
-I'm a Data Analyst with a strong passion for uncovering insights and solving problems through data. I am highly proficient in Excel and Power BI, with excellent skills in Tableau, SQL, and Python. I thrive on working with analytical tools to transform raw data into meaningful stories and actionable insights.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Complex+Data+into+Business+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Azure+%7C+Apache+Spark+%7C+Big+Data;From+Raw+Data+to+Strategic+Decisions" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on a **data-driven project analyzing solar panel efficiency and its economic impact, aligning with Egypt’s Vision 2030.**
-- I recently built an **interactive Tableau dashboard analyzing Egypt’s happiness ranking and trends**, check it out [here](https://public.tableau.com/views/HappinedRatesDataAnlysisProject/EgyptDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-- 🌱 I’m currently learning advanced predictive analytics and enhancing my BI dashboard skills.
-- 👯I’m looking to collaborate on **data-driven projects, dashboards, and business analytics.**.
-- 🤔 I’m looking for help with optimizing large-scale data processing and advanced data Analysis techniques.
-- 💬 Ask me about Tableau, SQL, Python for data analysis, Power BI, and Excel.
-- ⚡ Fun fact: I enjoy turning raw data into compelling stories. When I’m not analyzing data, I explore new tech trends!
-
-## 📞 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-hatem-921936258" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-<!--   <p align="left"> -->
-  <a href="https://wa.me/201092270951" target="_blank" style="margin-right: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
+
+  <a href="https://github.com/MohamedHatemWaheed">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:mohamedhatemwaheed@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Email" width="40" height="40"/>
+
+  <a href="mailto:mohamedhatemwaheed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1T6dtIoWWiYKAkRfFcy8rscTzAb7r7r3m/view?usp=sharingK" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yellow?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+
+  <a href="https://mohamed-hatem-waheed-d211luf.gamma.site/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View%20Project-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <a href="https://public.tableau.com/app/profile/mohamed.hatem1185/vizzes" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
-         alt="Tableau" 
-         width="80"/>
-  <!-- POWER BI - Using YOUR Microsoft URL -->
-  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" 
-       alt="Power BI" 
-       width="100"
-       style="margin-right: 15px;"/>
-</p>
-
-## 👀 Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
 
 ---
-Let's connect and collaborate on exciting data projects! 🚀
 
-<!--
-**MohamedHatemWaheed/MohamedHatemWaheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mohamed Hatem, a Data Analyst focused on Business Intelligence, analytics, and data-driven problem solving.
+
+I’ve worked on projects that uncovered multi-million-dollar inefficiencies, optimized marketing performance, analyzed customer behavior, and explored the future of renewable energy in Egypt.
+
+🏆 Top 8 among 320 teams in the MCIT DEPI competition
+📊 Delivered 20+ analytics projects across multiple industries
+⚡ Skilled in Python, SQL, Power BI, Tableau, and Excel
+☁️ Exploring Data Engineering, Azure, Apache Spark, Big Data, and modern data pipelines
+
+Beyond technical work, I founded and led the first-ever Data Analysis & AI Council at LinkCU, a non-profit student organization. Despite the uncertainty around launching a completely new department, I built the council from the ground up and led a team of 6 members, including 3 instructors and 3 HR members.
+
+I mentored instructors, designed technical learning content, and delivered 16+ sessions that helped 100+ students progress from beginner to intermediate level in data analytics.
+
+By the end of the season:
+
+* 🏅 I was recognized as the Best Head among 6 departments
+* 🚀 My team became one of the top-performing teams
+* 🎓 One of my students won the “Best Student” award across the organization
+
+I’m passionate about combining analytical thinking, leadership, and business understanding to build solutions — and communities — that create real impact.
+
+---
+
+## 🛠 Top Technical Skills & Tools
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgresql,azure,git,github,vscode,jupyter,pandas,numpy&perline=10" style="height:105px;"/> 
+</p>
+
+---
+
+## 📊 Data & Business Intelligence
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
+
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?style=flat&logo=googlesheets&logoColor=white">
+</p>
+
+---
+
+## 🐍 Python & Data Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white">
+
+  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Data%20Visualization-Experienced-5A9BD4?style=flat">
+</p>
+
+---
+
+## 🗄 Data Engineering & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Big%20Data-Concepts-orange?style=flat">
+
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=flat">
+
+  <img src="https://img.shields.io/badge/Data%20Warehouse-Modeling-orange?style=flat">
+</p>
+
+---
+
+## 📈 Analytics & Business Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-FF6B6B?style=flat">
+
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
+
+  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat">
+
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Advanced-45B7D1?style=flat">
+
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Advanced-6C63FF?style=flat">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌞 [Green Transition Solar Energy in Egypt](https://github.com/your-username/your-solar-project-repo)
+
+* Ranked Top 8 among 320 teams in MCIT DEPI  
+* Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data  
+
+---
+
+### 📈 [Marketing Analytics & Customer Journey Funnel Analysis](https://github.com/your-username/your-marketing-project-repo)
+
+* Analyzed 3,900+ users and 20+ campaigns  
+* Identified conversion bottlenecks and marketing optimization opportunities  
+
+---
+
+### 🛒 [E-Commerce Analysis Dashboard](https://github.com/your-username/your-ecommerce-project-repo)
+
+* Uncovered hidden revenue leakage and regional customer concentration risks  
+* Built interactive Power BI dashboards for business decision-making  
+
+---
+
+## 🏆 Achievements
+
+* 🏅 Best Head among 6 departments at LinkCU
+* 🚀 Built the first Data Analysis & AI Council at LinkCU
+* 🎓 Mentored 100+ students in Data Analytics
+* 📚 Delivered 16+ technical sessions
+* 🏆 Top 8 among 320 teams in MCIT DEPI Competition
+
+---
+
+## 📤 My Social Accounts
+
+<p align="left">
+
+  <a href="mailto:mohamedhatemwaheed@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50"/>
+  </a>
+
+ 
+
+  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>
+  </a>
+
+ 
+
+  <a href="https://github.com/MohamedHatemWaheed">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/>
+  </a>
+
+</p>
+
+---
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedHatemWaheed&theme=github_dark" height="176"/> &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedHatemWaheed&theme=github_dark" height="176"/>
+</p>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedHatemWaheed&theme=github_dark)
