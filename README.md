@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Hatem 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Complex+Data+into+Business+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Azure+%7C+Apache+Spark+%7C+Big+Data;From+Raw+Data+to+Strategic+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Complex+Data+into+Business+Impact;Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;From+Raw+Data+to+Strategic+Decisions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -58,7 +58,7 @@ I’m passionate about combining analytical thinking, leadership, and business u
 ## 🛠 Top Technical Skills & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgresql,azure,git,github,vscode,jupyter,pandas,numpy&perline=10" style="height:105px;"/> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,github,vscode,googlecolab,pandas,numpy,excel&perline=10" style="height:105px;"/>
 </p>
 
 ---
