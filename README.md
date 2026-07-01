@@ -127,21 +127,21 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ## 🚀 Featured Projects
 
-### 🌞 [Green Transition Solar Energy in Egypt](https://github.com/your-username/your-solar-project-repo)
+### 🌞 [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
 
 * Ranked Top 8 among 320 teams in MCIT DEPI  
 * Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data  
 
 ---
 
-### 📈 [Marketing Analytics & Customer Journey Funnel Analysis](https://github.com/your-username/your-marketing-project-repo)
+### 📈 [Customer-Journey-Marketing-Engagement-Analytics](https://github.com/MohamedHatemWaheed/Customer-Journey-Marketing-Engagement-Analytics)
 
 * Analyzed 3,900+ users and 20+ campaigns  
 * Identified conversion bottlenecks and marketing optimization opportunities  
 
 ---
 
-### 🛒 [E-Commerce Analysis Dashboard](https://github.com/your-username/your-ecommerce-project-repo)
+### 🛒 [E-Commerce Analysis Dashboard](https://github.com/MohamedHatemWaheed/Ecommerce-analysis)
 
 * Uncovered hidden revenue leakage and regional customer concentration risks  
 * Built interactive Power BI dashboards for business decision-making  
