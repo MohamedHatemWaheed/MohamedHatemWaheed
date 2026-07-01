@@ -160,27 +160,20 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ## 📤 My Social Accounts
 
-<p align="left">
-
-  <a href="mailto:mohamedhatemwaheed@gmail.com">
+<div style="display:flex; align-items:center;">
+  <a href="mailto:mohamedhatemwaheed@gmail.com" style="margin-right:40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50"/>
   </a>
-
- 
-
-  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh">
+  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh" style="margin-right:40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>
   </a>
-
- 
-
   <a href="https://github.com/MohamedHatemWaheed">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/>
   </a>
-
-</p>
+</div>
 
 ---
+
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedHatemWaheed&theme=github_dark" height="176"/> &nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedHatemWaheed&theme=github_dark" height="176"/>
