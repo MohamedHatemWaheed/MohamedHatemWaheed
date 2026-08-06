@@ -130,7 +130,13 @@ I’m passionate about combining analytical thinking, leadership, and business u
 ### 🌞 [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
 
 * Ranked Top 8 among 320 teams in MCIT DEPI  
-* Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data  
+* Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data
+
+---
+### 📊 [Omni-Channel-Retail-Analytics-Dashboard](https://github.com/MohamedHatemWaheed/Omni-Channel-Retail-Analytics-Dashboard/tree/main)
+* Built an end-to-end Power BI dashboard using Power Query, DAX, and Galaxy Schema on 50K+ retail records. 
+Across sales, marketing, shipping, and customer data.   
+* Delivered executive insights into profitability, marketing, operations, and product performance. 
 
 ---
 
