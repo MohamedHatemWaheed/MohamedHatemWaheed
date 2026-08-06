@@ -179,10 +179,3 @@ Across sales, marketing, shipping, and customer data.
 </div>
 
 ---
-
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedHatemWaheed&theme=github_dark" height="176"/> &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedHatemWaheed&theme=github_dark" height="176"/>
-</p>
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedHatemWaheed&theme=github_dark)
