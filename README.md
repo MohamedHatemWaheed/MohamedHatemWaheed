@@ -156,11 +156,13 @@ Across sales, marketing, shipping, and customer data.
 
 ## 🏆 Achievements
 
+* 🏆 Top 8 among 320 teams in The Egyptian Ministry of Communications and Information Technology DEPI Competition
+* ⚡ Contributed to improving team efficiency by 15% through process optimization
 * 🏅 Best Head among 6 departments at LinkCU
 * 🚀 Built the first Data Analysis & AI Council at LinkCU
 * 🎓 Mentored 100+ students in Data Analytics
 * 📚 Delivered 16+ technical sessions
-* 🏆 Top 8 among 320 teams in MCIT DEPI Competition
+
 
 ---
 
