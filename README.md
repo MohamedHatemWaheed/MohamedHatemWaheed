@@ -79,8 +79,6 @@ Results-driven Data Analyst equipped with expertise in SQL, Python, Excel, and P
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white">
-
   <img src="https://img.shields.io/badge/Big%20Data-Concepts-orange?style=flat">
 
   <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=flat">
