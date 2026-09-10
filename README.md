@@ -141,7 +141,7 @@ Across sales, marketing, shipping, and customer data.
 
 ---
 
-## 📤 My Social Accounts
+## My Social Accounts
 
 <div style="display:flex; align-items:center;">
   <a href="mailto:mohamedhatemwaheed@gmail.com" style="margin-right:30px;">
