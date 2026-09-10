@@ -144,11 +144,11 @@ Across sales, marketing, shipping, and customer data.
 ## 📤 My Social Accounts
 
 <div style="display:flex; align-items:center;">
-  <a href="mailto:mohamedhatemwaheed@gmail.com" style="margin-right:40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  <a href="mailto:mohamedhatemwaheed@gmail.com" style="margin-right:30px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh" style="margin-right:40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/>
+  <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh" style="margin-right:30px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30"/>
   </a>
  
 
