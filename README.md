@@ -108,27 +108,27 @@ Results-driven Data Analyst equipped with expertise in SQL, Python, Excel, and P
 
 ## Featured Projects
 
-### [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
+#### [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
 
 * Ranked Top 8 among 320 teams in MCIT DEPI  
 * Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data
 
 ---
-### [Omni-Channel-Retail-Analytics-Dashboard](https://github.com/MohamedHatemWaheed/Omni-Channel-Retail-Analytics-Dashboard/tree/main)
+#### [Omni-Channel-Retail-Analytics-Dashboard](https://github.com/MohamedHatemWaheed/Omni-Channel-Retail-Analytics-Dashboard/tree/main)
 * Built an end-to-end Power BI dashboard using Power Query, DAX, and Galaxy Schema on 50K+ retail records. 
 Across sales, marketing, shipping, and customer data.   
 * Delivered executive insights into profitability, marketing, operations, and product performance. 
 
 ---
 
-### [Customer-Journey-Marketing-Engagement-Analytics](https://github.com/MohamedHatemWaheed/Customer-Journey-Marketing-Engagement-Analytics)
+#### [Customer-Journey-Marketing-Engagement-Analytics](https://github.com/MohamedHatemWaheed/Customer-Journey-Marketing-Engagement-Analytics)
 
 * Analyzed 3,900+ users and 20+ campaigns  
 * Identified conversion bottlenecks and marketing optimization opportunities  
 
 ---
 
-### [E-Commerce Analysis Dashboard](https://github.com/MohamedHatemWaheed/Ecommerce-analysis)
+#### [E-Commerce Analysis Dashboard](https://github.com/MohamedHatemWaheed/Ecommerce-analysis)
 
 * Uncovered hidden revenue leakage and regional customer concentration risks  
 * Built interactive Power BI dashboards for business decision-making  
@@ -152,9 +152,6 @@ Across sales, marketing, shipping, and customer data.
   <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh" style="margin-right:40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/>
   </a>
-  <a href="https://github.com/MohamedHatemWaheed">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40"/>
-  </a>
-</div>
+ 
 
 ---
