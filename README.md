@@ -30,40 +30,21 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+## About Me
 
-I'm Mohamed Hatem, a Data Analyst focused on Business Intelligence, analytics, and data-driven problem solving.
-
-I’ve worked on projects that uncovered multi-million-dollar inefficiencies, optimized marketing performance, analyzed customer behavior, and explored the future of renewable energy in Egypt.
-
-* 🏆 Top 8 among 320 teams in the MCIT DEPI competition
-* 📊 Delivered 20+ analytics projects across multiple industries
-* ⚡ Skilled in Python, SQL, Power BI, Tableau, and Excel
-* ☁️ Exploring Data Engineering, Azure, Apache Spark, Big Data, and modern data pipelines
-
-Beyond technical work, I founded and led the first-ever Data Analysis & AI Council at LinkCU, a non-profit student organization. Despite the uncertainty around launching a completely new department, I built the council from the ground up and led a team of 6 members, including 3 instructors and 3 HR members.
-
-I mentored instructors, designed technical learning content, and delivered 16+ sessions that helped 100+ students progress from beginner to intermediate level in data analytics.
-
-By the end of the season:
-
-* 🏅 I was recognized as the Best Head among 6 departments
-* 🚀 My team became one of the top-performing teams
-* 🎓 One of my students won the “Best Student” award across the organization
-
-I’m passionate about combining analytical thinking, leadership, and business understanding to build solutions — and communities — that create real impact.
+Results-driven Data Analyst equipped with expertise in SQL, Python, Excel, and Power BI, focused on turning complex sales, operational, and marketing data into clear business insights. Experienced in designing end-to-end analytical solutions, building interactive dashboards, and tracking KPIs to support informed decision-making and operational performance improvement. Committed to unlocking business growth through data-driven problem solving and scalable data workflows.
 
 ---
 
-## 🛠 Top Technical Skills & Tools
+## Top Technical Skills & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,github,vscode,googlecolab,pandas,numpy,excel&perline=10" style="height:105px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,github,vscode,googlecolab,pandas,numpy,excel&perline=10" style="height 60px;"/>
 </p>
 
 ---
 
-## 📊 Data & Business Intelligence
+## Data & Business Intelligence
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
@@ -77,7 +58,7 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ---
 
-## 🐍 Python & Data Analysis
+## Python & Data Analysis
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
@@ -93,7 +74,7 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ---
 
-## 🗄 Data Engineering & Cloud
+## Data Engineering & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white">
@@ -109,7 +90,7 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ---
 
-## 📈 Analytics & Business Skills
+## Analytics & Business Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-FF6B6B?style=flat">
@@ -125,43 +106,39 @@ I’m passionate about combining analytical thinking, leadership, and business u
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌞 [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
+### [Green Transition Solar Energy in Egypt](https://github.com/Axiomatics-Team/GREEN-TRANSITION-SOLAR-ENERGY-IN-EGYPT)
 
 * Ranked Top 8 among 320 teams in MCIT DEPI  
 * Forecasted ROI, cost savings, and CO₂ reduction using 25 years of solar energy data
 
 ---
-### 📊 [Omni-Channel-Retail-Analytics-Dashboard](https://github.com/MohamedHatemWaheed/Omni-Channel-Retail-Analytics-Dashboard/tree/main)
+### [Omni-Channel-Retail-Analytics-Dashboard](https://github.com/MohamedHatemWaheed/Omni-Channel-Retail-Analytics-Dashboard/tree/main)
 * Built an end-to-end Power BI dashboard using Power Query, DAX, and Galaxy Schema on 50K+ retail records. 
 Across sales, marketing, shipping, and customer data.   
 * Delivered executive insights into profitability, marketing, operations, and product performance. 
 
 ---
 
-### 📈 [Customer-Journey-Marketing-Engagement-Analytics](https://github.com/MohamedHatemWaheed/Customer-Journey-Marketing-Engagement-Analytics)
+### [Customer-Journey-Marketing-Engagement-Analytics](https://github.com/MohamedHatemWaheed/Customer-Journey-Marketing-Engagement-Analytics)
 
 * Analyzed 3,900+ users and 20+ campaigns  
 * Identified conversion bottlenecks and marketing optimization opportunities  
 
 ---
 
-### 🛒 [E-Commerce Analysis Dashboard](https://github.com/MohamedHatemWaheed/Ecommerce-analysis)
+### [E-Commerce Analysis Dashboard](https://github.com/MohamedHatemWaheed/Ecommerce-analysis)
 
 * Uncovered hidden revenue leakage and regional customer concentration risks  
 * Built interactive Power BI dashboards for business decision-making  
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🏆 Top 8 among 320 teams in The Egyptian Ministry of Communications and Information Technology DEPI Competition
-* ⚡ Contributed to improving team efficiency by 15% through process optimization
-* 🏅 Best Head among 6 departments at LinkCU
-* 🚀 Built the first Data Analysis & AI Council at LinkCU
-* 🎓 Mentored 100+ students in Data Analytics
-* 📚 Delivered 16+ technical sessions
+* Ranked among the top 2 out of 320 projects in the MCIT DEPI competition and delivered multiple data analytics projects across various domains. 
+* Delivered data analysis training sessions and technical guidance to hundreds of students while leading university council teams. 
 
 
 ---
@@ -170,13 +147,13 @@ Across sales, marketing, shipping, and customer data.
 
 <div style="display:flex; align-items:center;">
   <a href="mailto:mohamedhatemwaheed@gmail.com" style="margin-right:40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-hatem-data--mh" style="margin-right:40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/>
   </a>
   <a href="https://github.com/MohamedHatemWaheed">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40"/>
   </a>
 </div>
 
